@@ -2,7 +2,7 @@
 - 👀 I’m interested in Big4 audit and consulting
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and SQL
-- 📫 How to reach me - kuba123.marek@gmail.copm
+- 📫 How to reach me - kuba123.marek@gmail.com
 - ⚡ Fun fact: - LIVERPOOL FC SUPPORTER
 
 <!---
